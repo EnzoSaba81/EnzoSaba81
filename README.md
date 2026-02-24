@@ -13,7 +13,6 @@ I am a passionate developer focused on building efficient Backend solutions and 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### 📈 Current Projects
 - **Currency Converter Pro:** Integration with financial APIs for real-time exchange rates.
