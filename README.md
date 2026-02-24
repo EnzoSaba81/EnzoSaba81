@@ -1,16 +1,23 @@
-## Hi there 👋
+# Ciao! I'm Enzo 👋
 
-<!--
-**EnzoSaba81/EnzoSaba81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer in training | Python Enthusiast | Based in Turin (Future)
 
-Here are some ideas to get you started:
+I am a passionate developer focused on building efficient Backend solutions and automation scripts. I'm currently honing my skills in Python, API integration, and clean code practices to contribute to the Italian tech ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 **Focus:** Python Backend & Data Automation.
+- 🇮🇹 **Languages:** Spanish (Native), English (Professional), Italian (A2/Learning).
+- ⚙️ **Currently learning:** Advanced Data Structures and SQL.
+
+---
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+### 📈 Current Projects
+- **Currency Converter Pro:** Integration with financial APIs for real-time exchange rates.
+- **Turin Zone Classifier:** Logic-based tool for urban cost analysis.
+
+---
+📫 **How to reach me:** www.linkedin.com/in/enzo-saba | enzosaba81@gmail.com
