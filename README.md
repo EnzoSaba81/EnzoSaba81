@@ -14,9 +14,5 @@ I am a passionate developer focused on building efficient Backend solutions and 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📈 Current Projects
-- **Currency Converter Pro:** Integration with financial APIs for real-time exchange rates.
-- **Turin Zone Classifier:** Logic-based tool for urban cost analysis.
-
 ---
 📫 **How to reach me:** www.linkedin.com/in/enzo-saba | enzosaba81@gmail.com
