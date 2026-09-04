@@ -1,6 +1,6 @@
 # Ciao! I'm Enzo 👋
 
-### Backend Developer in training | Python Enthusiast | Based in Turin (Future)
+### Backend Developer in training | Python Enthusiast | Uruguay
 
 I am a passionate developer focused on building efficient Backend solutions and automation scripts. I'm currently honing my skills in Python, API integration, and clean code practices to contribute to the Italian tech ecosystem.
 
