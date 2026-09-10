@@ -5,7 +5,7 @@
 I am a passionate developer focused on building efficient Backend solutions and automation scripts. I'm currently honing my skills in Python, API integration, and clean code practices to contribute to the Italian tech ecosystem.
 
 - 🐍 **Focus:** Python Backend & Data Automation.
-- 🇮🇹 **Languages:** Spanish (Native), English (Professional), Italian (A2/Learning).
+- 🇮🇹 **Languages:** Spanish (Native), English (Professional), Italian (B1/Learning).
 - ⚙️ **Currently learning:** Advanced Data Structures and SQL.
 
 ---
